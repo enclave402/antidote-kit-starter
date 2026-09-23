@@ -1,0 +1,6 @@
+{
+  "project": "<repo-name>",
+  "constraints": ["no_new_deps_without_ask", "tests_before_merge", "ssot_over_hardcoding"],
+  "inject_order": ["rules", "task"],
+  "verify": true
+}
