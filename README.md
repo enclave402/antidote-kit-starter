@@ -2,7 +2,7 @@
 
 Your coding agent forgets your rules. This starter keeps them in plain files in your repo, and the agent reads them every session.
 
-Free. Two skills. Fifteen minutes, then stop. The full kit lives at https://sloppyxbaby.com.
+Official free public starter for the Antidote Kit. Two skills. Fifteen minutes, then stop. The full kit lives at https://sloppyxbaby.com.
 
 ## Start
 
