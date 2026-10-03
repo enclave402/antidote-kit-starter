@@ -53,3 +53,5 @@ Out of scope: <what is intentionally ignored>
 ## Storytelling note
 
 The "villain" is context bloat — the false belief that more context is better. The "hero" is discipline. The "fix" is simple: name what matters, ignore the rest.
+
+**Done means:** Done means the task the owner asked for is finished using only the files you locked, with the checks named; at the end the owner-check-in shows what you did vs what they asked; the owner answers pass/fail (intent) and yes/no (satisfied). If unsure or spec and tests conflict, stop and flag.

@@ -27,7 +27,7 @@ Cursor, Codex, Copilot look in `.agents/skills/`. Claude Code looks in `.claude/
 
 ## The full kit
 
-Essential has all 9 core skills. Professional has all 14, plus Cursor rules, memory templates, and advanced patterns. One-time purchase, no subscription: https://sloppyxbaby.com/#pricing
+Essential has all 10 core skills. Professional has all 15, plus Cursor rules, memory templates, and advanced patterns. One-time purchase, no subscription: https://sloppyxbaby.com/#pricing
 
 ## License
 

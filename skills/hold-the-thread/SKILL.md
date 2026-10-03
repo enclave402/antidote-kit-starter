@@ -26,7 +26,7 @@ metadata:
 0. **Day 1 gate.** Read `AGENTS.md`. If the title still contains `<repo-name>` or **This project** is still the placeholder sentence, you are on Day 1. Follow `DAY1.md` only. Do not open `CONTEXT-MAP.md`, other skills, or Folder Discovery. Write the one next line. Stop.
 1. Read `AGENTS.md` (already done if you just finished the gate).
 2. Read `CLAUDE.md` only if Day 1 is done.
-3. Do **not** ingest orphan `.tmp` files from `.context/scratch/` as context; prefer the map, decisions, and durable work records.
+3. **Working memory (.context):** Use the `.context/` system (e.g. `.context/scratch/`) to keep active working notes, scratchpads, and execution logs as you work so context is never lost across turns. When orienting to a new session, do **not** ingest orphan `.tmp` files from `.context/scratch/` as context; prefer the map, decisions, and durable work records.
 4. **Folder Discovery (if present, after Day 1):** read `docs/_registry/folders.discovery.json` if it exists. Do not invent folder purpose. Buyer door: `templates/FOLDER-DISCOVERY.md`.
 5. Check for an in-flight work record (prefer durable surfaces over chat):
    - the **Next** line in `AGENTS.md`
@@ -51,3 +51,5 @@ Session stance:
 ```
 
 If nothing is in flight and the request is ambiguous, ask one clarifying question before proceeding.
+
+**Done means:** Done means the owner's intent is restated and confirmed before work starts; at the end the owner-check-in shows what you did vs what they asked; the owner answers pass/fail (intent) and yes/no (satisfied). If unsure or spec and tests conflict, stop and flag.
