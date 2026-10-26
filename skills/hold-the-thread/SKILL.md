@@ -31,7 +31,6 @@ metadata:
 5. Check for an in-flight work record (prefer durable surfaces over chat):
    - the **Next** line in `AGENTS.md`
    - `memory/todos.md` if it exists
-   - `worklog/STATE.md` if it exists
 6. State the session stance:
    - What you believe the user is trying to do.
    - What is already in flight.
@@ -52,4 +51,4 @@ Session stance:
 
 If nothing is in flight and the request is ambiguous, ask one clarifying question before proceeding.
 
-**Done means:** Done means the owner's intent is restated and confirmed before work starts; at the end the owner-check-in shows what you did vs what they asked; the owner answers pass/fail (intent) and yes/no (satisfied). If unsure or spec and tests conflict, stop and flag.
+**Done means:** Done means the owner's intent is restated and confirmed before work starts. If unsure or spec and tests conflict, stop and flag.
