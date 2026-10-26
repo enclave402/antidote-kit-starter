@@ -10,7 +10,6 @@ Do what the owner meant, not just what passes. The owner is the authority on int
 ## Definition of done
 
 - The change does what the owner asked, and you ran the checks that show it (say which).
-- At each finished beat the owner-check-in shows them what you did against what they asked; they answer `<name> pass yes` (or `fail`, `no`). The owner writes that answer, never you.
 - If the evidence contradicts the owner's guess, say so plainly; an honest "it's not that" beats a pleasing wrong fix.
 - Spec and tests disagree, or you can't tell what they want? Stop and flag it to the owner. A flagged conflict counts as done-right; a green test on the wrong thing does not.
 
